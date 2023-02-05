@@ -1,3 +1,3 @@
-<b>LOS ESCOLPIONES</b> </br>
+# LOS ESCOLPIONES
 
 Proyecto de dibujos animados 2D para todo principiante.
